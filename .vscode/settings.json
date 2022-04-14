@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "esp_log.h": "c",
+        "nvs_flash.h": "c",
+        "esp_ble_mesh_defs.h": "c",
+        "btc_ble_mesh_prov.h": "c",
+        "btc_ble_mesh_generic_model.h": "c",
+        "math.h": "c"
+    },
+    "idf.adapterTargetName": "esp32c3"
+}
